@@ -7,7 +7,8 @@ Gap Between theoretical knowlegde and practical Application
 The project highligts a probelm statement reagrding the gap between theoretical knowlegde and practical Application in today's education system
 
 **DESCRIPTION OF PROBLEM**
-1.**focus on Theory :** Today's students are primarily seeking Theoryor syllabus- based knowledge desinged for scoring marks in school, college 
+
+1.**focus on Theory :** Today's students are primarily seeking Theory syllabus- based knowledge desinged for scoring marks in school, college 
 or competive exams.
 
 2.**Lack of practical application training :** Students are not taught how leraned knowledge applies in the real world.
