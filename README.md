@@ -26,6 +26,7 @@ link
 
 **DEMO VIDEO**
 link
+
 **PROBLEM AND SOLUTION**
 **Problem :** The traditional education system focuses on theoritical knowledge, leavig gap in practical application
 ** Solution :** This project aims to bridge this gap by empahasizing the important learning and providing resourses for hands- on experience
