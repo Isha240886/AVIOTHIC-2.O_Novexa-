@@ -36,7 +36,7 @@ Most online resources (YouTube, Google, etc.) emphasize exam preparation or tren
 ---
 
 ## 🎥 **Demo Video**
-▶️ [Watch Demo Video](#) *(Add your demo video link here)*
+▶️ [Watch Demo Video](#) *(https://github.com/Isha240886/AVIOTHIC-2.O_Novexa-/blob/main/AI%20mentor%20project%20Novexa%20team.mp4)*
 
 ---
 
