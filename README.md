@@ -34,5 +34,5 @@ link
 **Solution :** This project aims to bridge this gap by empahasizing the important learning and providing resourses for hands- on experience
 
 **USE OF TECHNOLOGY AND TOOLS**
-1. Research and documentation
+1. For frontend : Html, CSS and Java Script & For Backend: Node JS, MongoDB (Database) 
 2. Using of various AI tools like ChatGPT, Gemini, Meta AI 
