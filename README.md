@@ -31,7 +31,7 @@ Most online resources (YouTube, Google, etc.) emphasize exam preparation or tren
 ---
 
 ## 🖼️ **Project Screenshot**
-📷 [View Screenshot](#) *(Add your project screenshot link here)*
+📷 [View Screenshot](#) *(aviothic project ss.png)*
 
 ---
 
