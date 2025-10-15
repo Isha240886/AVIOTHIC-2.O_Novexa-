@@ -31,7 +31,7 @@ Most online resources (YouTube, Google, etc.) emphasize exam preparation or tren
 ---
 
 ## 🖼️ **Project Screenshot**
-📷 [View Screenshot](#) *(aviothic project ss.png)*
+📷 [View Screenshot](#) *(https://github.com/Isha240886/AVIOTHIC-2.O_Novexa-/blob/main/aviothic%20project%20ss.png)*
 
 ---
 
