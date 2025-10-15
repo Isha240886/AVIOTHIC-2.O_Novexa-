@@ -70,7 +70,7 @@ Our project bridges this gap by emphasizing **applied learning** and providing *
 ---
 
 ## 👥 **Team**
-**Project by:** *Team AVOTHIC 2.0*  
+**Project by:** *Team Novexa*  
 Hackathon: *AVOTHIC-2.0 Hackathon 2025*
 
 ---
